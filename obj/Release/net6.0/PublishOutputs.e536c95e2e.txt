@@ -1,0 +1,7 @@
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\dotnet_demo.exe
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\appsettings.json
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\dotnet_demo.dll
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\dotnet_demo.deps.json
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\dotnet_demo.runtimeconfig.json
+C:\Azure_app_service\dotnet_demo\bin\Release\net6.0\publish\dotnet_demo.pdb

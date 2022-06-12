@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9cabf499-5686-4a0e-af37-95943cb9826f/microsoft.web/sites/subscriptions/9cabf499-5686-4a0e-af37-95943cb9826f/resourceGroups/Test/providers/Microsoft.Web/sites/myF"
+}
